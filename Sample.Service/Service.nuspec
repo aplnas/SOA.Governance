@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <!--Add the id, version (like 0.0.1), title, and description, below -->
+    <id></id>
+    <version></version>
+    <title></title>
+    <description></description>
+    
+    <authors>Cornerstone OnDemand, Inc.</authors>
+    <owners>Cornerstone OnDemand, Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright 2016</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="packages.config" />
+  </files>
+</package>

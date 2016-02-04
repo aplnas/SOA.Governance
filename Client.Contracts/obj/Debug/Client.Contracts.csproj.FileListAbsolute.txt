@@ -1,0 +1,14 @@
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Client.Contracts\bin\Debug\Client.Contracts.dll
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Client.Contracts\bin\Debug\Client.Contracts.pdb
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Client.Contracts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Client.Contracts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Client.Contracts\obj\Debug\Client.Contracts.csprojResolveAssemblyReference.cache
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Client.Contracts\obj\Debug\Client.Contracts.dll
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Client.Contracts\obj\Debug\Client.Contracts.pdb
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\bin\Debug\Client.Contracts.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\bin\Debug\Client.Contracts.pdb
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\obj\Debug\Client.Contracts.csprojResolveAssemblyReference.cache
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\obj\Debug\Client.Contracts.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\obj\Debug\Client.Contracts.pdb

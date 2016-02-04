@@ -1,0 +1,10 @@
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Message.DTO\bin\Debug\Message.DTO.dll
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Message.DTO\bin\Debug\Message.DTO.pdb
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Message.DTO\obj\Debug\Message.DTO.csprojResolveAssemblyReference.cache
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Message.DTO\obj\Debug\Message.DTO.dll
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\Message.DTO\obj\Debug\Message.DTO.pdb
+C:\tfs\DecoupledServices\Sample-Service-Governance\Message.DTO\bin\Debug\Message.DTO.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\Message.DTO\bin\Debug\Message.DTO.pdb
+C:\tfs\DecoupledServices\Sample-Service-Governance\Message.DTO\obj\Debug\Message.DTO.csprojResolveAssemblyReference.cache
+C:\tfs\DecoupledServices\Sample-Service-Governance\Message.DTO\obj\Debug\Message.DTO.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\Message.DTO\obj\Debug\Message.DTO.pdb

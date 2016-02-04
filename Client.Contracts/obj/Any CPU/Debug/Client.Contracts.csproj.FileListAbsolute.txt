@@ -1,0 +1,5 @@
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\bin\Debug\Client.Contracts.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\bin\Debug\Client.Contracts.pdb
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\obj\Any CPU\Debug\Client.Contracts.csprojResolveAssemblyReference.cache
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\obj\Any CPU\Debug\Client.Contracts.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\Client.Contracts\obj\Any CPU\Debug\Client.Contracts.pdb

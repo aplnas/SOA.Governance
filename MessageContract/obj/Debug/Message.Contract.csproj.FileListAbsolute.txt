@@ -1,0 +1,10 @@
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\MessageContract\bin\Debug\MessageContract.dll
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\MessageContract\bin\Debug\MessageContract.pdb
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\MessageContract\obj\Debug\Message.Contract.csprojResolveAssemblyReference.cache
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\MessageContract\obj\Debug\MessageContract.dll
+C:\tfs\DecoupledServices\CSOD OWIN ASP.NET Web API VS20151\MessageContract\obj\Debug\MessageContract.pdb
+C:\tfs\DecoupledServices\Sample-Service-Governance\MessageContract\obj\Debug\Message.Contract.csprojResolveAssemblyReference.cache
+C:\tfs\DecoupledServices\Sample-Service-Governance\MessageContract\obj\Debug\MessageContract.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\MessageContract\obj\Debug\MessageContract.pdb
+C:\tfs\DecoupledServices\Sample-Service-Governance\MessageContract\bin\Debug\MessageContract.dll
+C:\tfs\DecoupledServices\Sample-Service-Governance\MessageContract\bin\Debug\MessageContract.pdb
