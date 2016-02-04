@@ -1,8 +1,0 @@
-C:\tfs\DecoupledServices\Sample-Service-Governance\IISServiceDiscovery\bin\Debug\IISServiceDiscovery.dll.config
-C:\tfs\DecoupledServices\Sample-Service-Governance\IISServiceDiscovery\bin\Debug\IISServiceDiscovery.dll
-C:\tfs\DecoupledServices\Sample-Service-Governance\IISServiceDiscovery\bin\Debug\IISServiceDiscovery.pdb
-C:\tfs\DecoupledServices\Sample-Service-Governance\IISServiceDiscovery\bin\Debug\Infrastructure.Contracts.dll
-C:\tfs\DecoupledServices\Sample-Service-Governance\IISServiceDiscovery\bin\Debug\Infrastructure.Contracts.pdb
-C:\tfs\DecoupledServices\Sample-Service-Governance\IISServiceDiscovery\obj\Debug\IISServiceDiscovery.csprojResolveAssemblyReference.cache
-C:\tfs\DecoupledServices\Sample-Service-Governance\IISServiceDiscovery\obj\Debug\IISServiceDiscovery.dll
-C:\tfs\DecoupledServices\Sample-Service-Governance\IISServiceDiscovery\obj\Debug\IISServiceDiscovery.pdb

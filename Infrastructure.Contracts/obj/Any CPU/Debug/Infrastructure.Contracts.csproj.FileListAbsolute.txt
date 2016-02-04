@@ -1,5 +1,0 @@
-C:\tfs\DecoupledServices\Sample-Service-Governance\Infrastructure.Contracts\bin\Debug\Infrastructure.Contracts.dll
-C:\tfs\DecoupledServices\Sample-Service-Governance\Infrastructure.Contracts\bin\Debug\Infrastructure.Contracts.pdb
-C:\tfs\DecoupledServices\Sample-Service-Governance\Infrastructure.Contracts\obj\Any CPU\Debug\Infrastructure.Contracts.csprojResolveAssemblyReference.cache
-C:\tfs\DecoupledServices\Sample-Service-Governance\Infrastructure.Contracts\obj\Any CPU\Debug\Infrastructure.Contracts.dll
-C:\tfs\DecoupledServices\Sample-Service-Governance\Infrastructure.Contracts\obj\Any CPU\Debug\Infrastructure.Contracts.pdb
