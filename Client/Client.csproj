@@ -7,8 +7,8 @@
     <ProjectGuid>{0745113A-C21D-4563-A897-243AB342E403}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary2</RootNamespace>
-    <AssemblyName>ClassLibrary2</AssemblyName>
+    <RootNamespace>Client</RootNamespace>
+    <AssemblyName>Client</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -31,7 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Client.Contracts, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Client.Contracts.1.0.0.0\lib\net452\Client.Contracts.dll</HintPath>
+      <HintPath>..\packages\Client.Contracts.1.1.0.0\lib\net452\Client.Contracts.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
@@ -48,7 +48,7 @@
     <Compile Include="src\TranscriptClient.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Client.nuspec" />
+    <None Include="Client.nwuspec" />
     <None Include="packages.config" />
     <None Include="publishLocal.bat" />
   </ItemGroup>

@@ -47,8 +47,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Infrastructure.Contracts.nuspec" />
-    <None Include="publishLocal.bat" />
+    <None Include="Infrastructure.Contracts.nusspec" />
+    <None Include="publishLocal.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
